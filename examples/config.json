@@ -1,0 +1,14 @@
+{
+  "hosts": [
+    "http://localhost:4200"
+  ],
+  "backupPath": "path/to/backup/dir",
+  "createMetaTable": true,
+  "metaTableName": "images_meta",
+  "metaTableReplicas": 2,
+  "metaTableShards": 3,
+  "createBlobTable": true,
+  "blobTableName": "images_blobs",
+  "blobTableReplicas": 1,
+  "blobTableShards": 3
+}
