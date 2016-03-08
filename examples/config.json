@@ -2,7 +2,7 @@
   "hosts": [
     "http://localhost:4200"
   ],
-  "backupPath": "path/to/backup/dir",
+  "backupPath": "examples/exampleData",
   "createMetaTable": true,
   "metaTableName": "images_meta",
   "metaTableReplicas": 2,
