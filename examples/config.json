@@ -7,6 +7,7 @@
   "metaTableName": "images_meta",
   "metaTableReplicas": 2,
   "metaTableShards": 3,
+  "pathModifierRemove" : "examples/exampleData",
   "createBlobTable": true,
   "blobTableName": "images_blobs",
   "blobTableReplicas": 1,
