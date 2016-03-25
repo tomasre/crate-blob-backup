@@ -11,5 +11,6 @@
   "createBlobTable": true,
   "blobTableName": "images_blobs",
   "blobTableReplicas": 1,
-  "blobTableShards": 3
+  "blobTableShards": 3,
+  "parallelCount": 50
 }
