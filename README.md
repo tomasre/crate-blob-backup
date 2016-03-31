@@ -5,6 +5,7 @@ node utility for backing up blobs to crate cluster
 filename    
 path    
 hash   
+size   
 
 For example file path: examples/exampleData/d3/vid/blah.mp4    
 filename: blah.mp4   
